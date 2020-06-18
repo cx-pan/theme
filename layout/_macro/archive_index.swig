@@ -25,6 +25,7 @@
         </span>
       </div>
     {% endfor %}
+    {% include "../_partial/pagination.swig" %}
   </section>
  </div>
 
